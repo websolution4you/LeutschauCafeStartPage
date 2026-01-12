@@ -1,0 +1,8 @@
+{
+  "name": "leutschau-cafe",
+  "version": "1.0.0",
+  "description": "Leutschau Cafe coming soon page",
+  "scripts": {
+    "build": "echo 'No build step needed for static site'"
+  }
+}
